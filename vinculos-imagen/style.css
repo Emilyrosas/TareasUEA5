@@ -1,0 +1,15 @@
+body{background-color: rgb(176, 250, 215);}
+
+
+
+#p{ color:rgb(65, 107, 247); 
+    font-size: 40px;
+    text-align: center
+}
+#p1{ color:rgb(194, 208, 255); 
+    font-size: 40px;
+    text-align: center
+}
+
+/*Clases*/
+.body2{background-color: rgb(129, 129, 255);text-align: center;}
