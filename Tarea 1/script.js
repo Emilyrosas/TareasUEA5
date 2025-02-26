@@ -1,2 +1,1 @@
-console.log("aquí está la consola");
-window.alert("Holaaaaa");
+console.log("Aquí está el mensaje en la consola");
