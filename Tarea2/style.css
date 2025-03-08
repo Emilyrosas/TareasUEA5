@@ -1,3 +1,6 @@
 body{background-color: blanchedalmond;}
-div{ background-color: rgb(163, 171, 127);margin: 100px;}
+div{ background-color: rgba(163, 171, 127, 0.568);margin: 100px;}
 .div{background-color: rgba(165, 42, 42, 0.77);}
+
+.T{text-align: center;}
+.P{font-size: 25px;}
