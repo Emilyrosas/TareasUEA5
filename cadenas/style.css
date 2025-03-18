@@ -1,0 +1,23 @@
+body{background-color: rgba(191, 127, 251, 0.676);}
+
+.p{color: blue;}
+
+p{color: rgb(255, 34, 0);}
+
+div{background-color: aqua;
+    font-size: 40px;
+    padding:100px; 
+    margin: 20px;
+   border-style:groove;
+    }
+
+    .p {
+        background-color: orange; 
+        padding: 50px;
+        display: inline-block;
+    }
+    .h {
+        background-color: aqua;
+        padding: 20px;
+    }
+    
