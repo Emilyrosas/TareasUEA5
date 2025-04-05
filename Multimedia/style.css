@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(133, 216, 255);
+}
+
+h1{
+    color: rgb(66, 66, 130);
+    font-family: 'Times new roman';
+    text-align: center;
+    font-size: 50px;
+
+}
+
+p{
+    color: rgb(50, 21, 76);
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+
+div{
+    margin: 35px;
+}
+
