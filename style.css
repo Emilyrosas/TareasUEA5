@@ -19,7 +19,7 @@ p{
 }
 
 div{
-    background-image: url(/assets/mar.png);
+    background-image: url(assets/mar.png);
     background-size: cover; 
       background-position: center; 
 }
